@@ -8,8 +8,9 @@ dependencies:
   - r-tidyverse
   - r-vegan
   - r-dendextend
+  - r-phylosmith
   - bioconductor-dada2
   - bioconductor-decipher
   - bioconductor-phyloseq
   - bioconductor-deseq2
-  - bioconductor-phylosmith
+ 
