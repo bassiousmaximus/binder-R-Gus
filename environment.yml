@@ -12,3 +12,4 @@ dependencies:
   - bioconductor-decipher
   - bioconductor-phyloseq
   - bioconductor-deseq2
+  - bioconductor-phylosmith
